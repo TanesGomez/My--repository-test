@@ -3,3 +3,4 @@
 #Esto es para ignorar los archivos .log
 *.log
 !Archivo.txt
+Nombre.py
