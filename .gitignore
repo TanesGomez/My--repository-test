@@ -1,4 +1,5 @@
 #Esto es para ignorar los archivos .txt
 *.txt
-#Esto es para ignorar los archivos .py
-*.py
+#Esto es para ignorar los archivos .log
+*.log
+
