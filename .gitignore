@@ -1,0 +1,4 @@
+#Esto es para ignorar los archivos .txt
+*.txt
+*.py
+
